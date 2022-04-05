@@ -1,12 +1,7 @@
 # ProductLog Theme
 
-ProductLog is a NextJS theme for hosting your product's changelog. [Preview the theme](https://productlog-theme.vercel.app/) to see what it looks like, or checkout how to use it today.
+ProductLog is a NextJS theme for hosting your product's changelog. [Preview the theme](https://notion-nro8y8drl-bgoonz.vercel.app/) to see what it looks like, or checkout how to use it today.
 
-![ProductLog Theme Logo](https://github.com/apvarun/productlog-nextjs-theme/raw/main/public/static/ProductLog.png)
-
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fapvarun%2Fproductlog-nextjs-theme) ![GitHub](https://img.shields.io/github/license/apvarun/productlog-nextjs-theme) ![GitHub package.json version](https://img.shields.io/github/package-json/v/apvarun/productlog-nextjs-theme)
-
-<a href="https://www.buymeacoffee.com/apvarun" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Varun A Coffee" style="height: 30px !important;width: 108px !important;"></a> [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/apvarun/productlog-nextjs-theme)
 
 ## Features
 
@@ -22,7 +17,7 @@ ProductLog is a NextJS theme for hosting your product's changelog. [Preview the 
 
 ## Screenshot
 
-![ProductLog Theme Screenshot](https://github.com/apvarun/productlog-nextjs-theme/raw/main/screenshot.png)
+
 
 ## Quick Start Guide
 
