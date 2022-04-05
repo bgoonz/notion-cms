@@ -60,6 +60,4 @@ Using the template? Support this effort by giving a star on Github, sharing your
 [MIT](https://github.com/apvarun/productlog-nextjs-theme/blob/master/LICENSE) © [Varun](https://apvarun.com)
 
 
-
-
-https://webdevhub42.notion.site/59ea6b116ec149b09a1e077a7a89af4e?v=b3402b78555a44d4a6925c38dcbfd5a3
+https://webdevhub42.notion.site/c?v=911e25aff54041d882fb445e4f754b9a402b78555a44d4a6925c38dcbfd5a3
