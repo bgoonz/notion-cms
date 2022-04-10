@@ -121,15 +121,14 @@
   resolved "https://registry.yarnpkg.com/@tailwindcss/aspect-ratio/-/aspect-ratio-0.2.2.tgz#68819ac65bc91c1833fec1f4af5cc3bfb3f25922"
   integrity sha512-yjvYH1qKQapYUVz0rCRAQ29KlKuiDsWJF/0d24lpTPWtTKBimcKWHiAMjZOILbnRd25PogILsbOyFFVOjFd6Ow==
 
-"@tailwindcss/typography@0.4.1":
-  version "0.4.1"
-  resolved "https://registry.yarnpkg.com/@tailwindcss/typography/-/typography-0.4.1.tgz#51ddbceea6a0ee9902c649dbe58871c81a831212"
-  integrity sha512-ovPPLUhs7zAIJfr0y1dbGlyCuPhpuv/jpBoFgqAc658DWGGrOBWBMpAWLw2KlzbNeVk4YBJMzue1ekvIbdw6XA==
+"@tailwindcss/typography@0.5.2":
+  version "0.5.2"
+  resolved "https://registry.yarnpkg.com/@tailwindcss/typography/-/typography-0.5.2.tgz#24b069dab24d7a2467d01aca0dd432cb4b29f0ee"
+  integrity sha512-coq8DBABRPFcVhVIk6IbKyyHUt7YTEC/C992tatFB+yEx5WGBQrCgsSFjxHUr8AWXphWckadVJbominEduYBqw==
   dependencies:
     lodash.castarray "^4.4.0"
     lodash.isplainobject "^4.0.6"
     lodash.merge "^4.6.2"
-    lodash.uniq "^4.5.0"
 
 "@types/hast@^2.0.0":
   version "2.3.4"
@@ -675,11 +674,6 @@ lodash.merge@^4.6.2:
   version "4.6.2"
   resolved "https://registry.yarnpkg.com/lodash.merge/-/lodash.merge-4.6.2.tgz#558aa53b43b661e1925a0afdfa36a9a1085fe57a"
   integrity sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ==
-
-lodash.uniq@^4.5.0:
-  version "4.5.0"
-  resolved "https://registry.yarnpkg.com/lodash.uniq/-/lodash.uniq-4.5.0.tgz#d0225373aeb652adc1bc82e4945339a842754773"
-  integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
 loose-envify@^1.1.0, loose-envify@^1.4.0:
   version "1.4.0"
