@@ -58,8 +58,8 @@
                         "link": "https://bgoonzblog20master.gatsbyjs.io/docs/about/"
                     },
                     {
-                        "name": "F.A.Q",
-                        "link": ""
+                        "name": "Dcs",
+                        "link": "https://bgoonzblog20master.gatsbyjs.io/docs/"
                     },
                     {
                         "name": "Contact",
@@ -74,9 +74,4 @@
         "type": "Google Analytics",
         "id": ""
     }
-}
-"analytics": {
-    "type": "Google Analytics",
-    "id": ""
-}
 }
