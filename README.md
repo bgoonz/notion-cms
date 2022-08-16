@@ -3,6 +3,8 @@
 ProductLog is a NextJS theme for hosting your product's changelog. [Preview the theme](https://notion-nro8y8drl-bgoonz.vercel.app/) to see what it looks like, or checkout how to use it today.
 
 
+[![pages-build-deployment](https://github.com/bgoonz/notion-cms/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/bgoonz/notion-cms/actions/workflows/pages/pages-build-deployment)
+
 ## Features
 
 - SEO friendly
