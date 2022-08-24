@@ -1,0 +1,81 @@
+{
+    "data": {
+        "type": "notion",
+        "name": "0c4c8de89a6644348d7484157cf53f12"
+    },
+    "meta": {
+        "title": "Product Log - Home of your Product's changelogs",
+        "description": "Recent changes to your product and it's benefits",
+        "image": "/static/ProductLog.png"
+    },
+    "logo": {
+        "image": "/static/logo.svg",
+        "text": "Product Log"
+    },
+    "header": {
+        "title": "Changelog",
+        "description": "New updates and improvements to this project will be documented in this page.",
+        "menu": [{
+                "name": "Services",
+                "children": [{
+                        "name": "Copywriting",
+                        "link": "https://example.com"
+                    },
+                    {
+                        "name": "UX Design",
+                        "link": "https://example.com"
+                    }
+                ]
+            },
+            {
+                "name": "Contact",
+                "link": "https://example.com"
+            },
+            {
+                "name": "Sign Up",
+                "link": "https://example.com",
+                "type": "button"
+            }
+        ]
+    },
+    "footer": {
+        "section": [{
+                "linkTitle": "Social",
+                "links": [{
+                        "name": "Twitter",
+                        "link": "https://example.com"
+                    },
+                    {
+                        "name": "GitHub",
+                        "link": "https://example.com"
+                    },
+                    {
+                        "name": "Discuss",
+                        "link": "https://example.com"
+                    }
+                ]
+            },
+            {
+                "linkTitle": "Company",
+                "links": [{
+                        "name": "About",
+                        "link": "https://example.com"
+                    },
+                    {
+                        "name": "F.A.Q",
+                        "link": "https://example.com"
+                    },
+                    {
+                        "name": "Contact",
+                        "link": "https://example.com"
+                    }
+                ]
+            }
+        ],
+        "copyright": "© 2021 Product Log · All rights reserved"
+    },
+    "analytics": {
+        "type": "Google Analytics",
+        "id": ""
+    }
+}
