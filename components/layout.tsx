@@ -29,7 +29,7 @@ export default function Layout({
         ></link>
       </Head>
       <Header />
-      <main className="p-8 max-w-14xl  grid grid-cols-1 md:grid-cols-4 gap-2 lg:gap-4">
+      <main className="p-8 max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-2 lg:gap-4">
         {children}
       </main>
       <Footer />

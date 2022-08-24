@@ -3,4 +3,3 @@
 .vercel
 
 *.log
-node_modules/
